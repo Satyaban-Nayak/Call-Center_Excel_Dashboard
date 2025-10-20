@@ -87,8 +87,15 @@ The dashboard is fully dynamic with interactive controls for better data explora
 
 <h3>🚀 Outcome</h3>
 <p>This project demonstrates how Microsoft Excel can be transformed into a powerful analytics tool for monitoring real-time call center performance and improving operational efficiency.</p>
+---
+
+## 👤 Author    
+**Satyaban Nayak**
+| Platform | Link |
+| --- | --- |
+| **GitHub** | https://github.com/Satyaban-Nayak |
+| **LinkedIn** | www.linkedin.com/in/satyaban-nayak-06bb65374 |
+| **Email** | satyabannayak78@gmail.com |
 
 
-<p>#ExcelDashboard #DataAnalytics #MicrosoftExcel #BusinessIntelligence #CallCenterAnalytics #PerformanceTracking #ExcelProject #DataVisualization</p>
 
-</div>
